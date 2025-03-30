@@ -1,1 +1,1 @@
-this is jsut a test file for our first Git tutoiral CS II at MCC
+this is just a test file for our first Git tutoiral CS II at MCC
